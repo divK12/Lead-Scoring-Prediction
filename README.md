@@ -12,7 +12,6 @@ Key objectives include:
 
 - **Developing a Lead Scoring System:** Create a model that ranks customers based on their predicted probability of subscribing to a term deposit.
 - **Identifying High-Potential Leads:** Improve targeting efficiency in the telemarketing campaign by focusing on leads with the highest probability of conversion.
-- **Providing Actionable Insights:** Offer recommendations for better resource allocation (e.g., funds) and enhanced campaign strategies to the marketing director.
 
 ## Vision
 
